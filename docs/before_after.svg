@@ -1,0 +1,176 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1010" height="598" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13">
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="16" y="30" font-size="16" font-weight="700" fill="#0b2545">BEFORE: hand-typed sheet (header row, mixed formats, text in numbers, duplicates, blanks)</text>
+<rect x="16" y="44" width="960" height="26" fill="#ffffff" stroke="#d0d7de"/>
+<text x="24" y="61" fill="#1f2328">№ заказа</text>
+<text x="114" y="61" fill="#1f2328">Дата</text>
+<text x="219" y="61" fill="#1f2328">Артикул</text>
+<text x="319" y="61" fill="#1f2328">Товар</text>
+<text x="479" y="61" fill="#1f2328">Кол-во</text>
+<text x="549" y="61" fill="#1f2328">Цена</text>
+<text x="659" y="61" fill="#1f2328">Сумма</text>
+<text x="769" y="61" fill="#1f2328">Склад</text>
+<rect x="16" y="70" width="960" height="26" fill="#ffffff" stroke="#d0d7de"/>
+<text x="24" y="87" fill="#1f2328">1017</text>
+<text x="114" y="87" fill="#1f2328">2025-02-18</text>
+<text x="219" y="87" fill="#1f2328">flt-014</text>
+<text x="319" y="87" fill="#1f2328">Air filter</text>
+<text x="479" y="87" fill="#1f2328">7 шт</text>
+<text x="549" y="87" fill="#1f2328">6800</text>
+<text x="659" y="87" fill="#1f2328">47600</text>
+<text x="769" y="87" fill="#1f2328">astana</text>
+<rect x="16" y="96" width="960" height="26" fill="#ffffff" stroke="#d0d7de"/>
+<text x="24" y="113" fill="#1f2328">1018</text>
+<text x="114" y="113" fill="#1f2328">22.02.2025</text>
+<text x="219" y="113" fill="#1f2328"> BLT-080 </text>
+<text x="319" y="113" fill="#1f2328">V-belt A-80</text>
+<text x="479" y="113" fill="#1f2328">11</text>
+<text x="549" y="113" fill="#1f2328">2 700,00 тг</text>
+<text x="659" y="113" fill="#1f2328">29 700 ₸</text>
+<text x="769" y="113" fill="#1f2328">kokshetau</text>
+<rect x="16" y="122" width="960" height="26" fill="#ffffff" stroke="#d0d7de"/>
+<text x="24" y="139" fill="#1f2328">1019</text>
+<text x="114" y="139" fill="#1f2328">16.02.2025</text>
+<text x="219" y="139" fill="#1f2328"> BRG-305 </text>
+<text x="319" y="139" fill="#1f2328">Bearing 6305</text>
+<text x="479" y="139" fill="#1f2328">2</text>
+<text x="549" y="139" fill="#1f2328">3100</text>
+<text x="659" y="139" fill="#1f2328">6 200 ₸</text>
+<text x="769" y="139" fill="#1f2328">Astana</text>
+<rect x="16" y="148" width="960" height="26" fill="#ffffff" stroke="#d0d7de"/>
+<text x="24" y="165" fill="#1f2328">1020</text>
+<text x="114" y="165" fill="#1f2328">20.02.2025</text>
+<text x="219" y="165" fill="#1f2328">FLT-001</text>
+<text x="319" y="165" fill="#1f2328">Oil filter</text>
+<text x="479" y="165" fill="#1f2328">6</text>
+<text x="549" y="165" fill="#1f2328">4200</text>
+<text x="659" y="165" fill="#1f2328">25 200 ₸</text>
+<text x="769" y="165" fill="#1f2328">astana</text>
+<rect x="16" y="174" width="960" height="26" fill="#ffffff" stroke="#d0d7de"/>
+<text x="24" y="191" fill="#1f2328">1020</text>
+<text x="114" y="191" fill="#1f2328">20.02.2025</text>
+<text x="219" y="191" fill="#1f2328">FLT-001</text>
+<text x="319" y="191" fill="#1f2328">Oil filter</text>
+<text x="479" y="191" fill="#1f2328">6</text>
+<text x="549" y="191" fill="#1f2328">4200</text>
+<text x="659" y="191" fill="#1f2328">25 200 ₸</text>
+<text x="769" y="191" fill="#1f2328">astana</text>
+<rect x="16" y="200" width="960" height="26" fill="#ffffff" stroke="#d0d7de"/>
+<text x="24" y="217" fill="#1f2328">1021</text>
+<text x="114" y="217" fill="#1f2328">28.02.2025</text>
+<text x="219" y="217" fill="#1f2328">FLT-001</text>
+<text x="319" y="217" fill="#1f2328">Oil filter</text>
+<text x="479" y="217" fill="#1f2328">2 шт</text>
+<text x="549" y="217" fill="#1f2328">4 200 ₸</text>
+<text x="659" y="217" fill="#1f2328">8 400 ₸</text>
+<text x="769" y="217" fill="#1f2328">astana</text>
+<rect x="16" y="226" width="960" height="26" fill="#ffffff" stroke="#d0d7de"/>
+<text x="24" y="243" fill="#1f2328">1022</text>
+<text x="114" y="243" fill="#1f2328">04.02.2025</text>
+<text x="219" y="243" fill="#1f2328">HYD-220</text>
+<text x="319" y="243" fill="#1f2328">Hydraulic oil 20 L</text>
+<text x="479" y="243" fill="#1f2328">8</text>
+<text x="549" y="243" fill="#1f2328">24 300 ₸</text>
+<text x="659" y="243" fill="#1f2328">194400</text>
+<text x="769" y="243" fill="#1f2328">Astana</text>
+<rect x="16" y="252" width="960" height="26" fill="#ffffff" stroke="#d0d7de"/>
+<text x="24" y="269" fill="#1f2328">1023</text>
+<text x="114" y="269" fill="#1f2328">11.02.2025</text>
+<text x="219" y="269" fill="#1f2328"> FLT-001 </text>
+<text x="319" y="269" fill="#1f2328">Oil filter</text>
+<text x="479" y="269" fill="#1f2328">12</text>
+<text x="549" y="269" fill="#1f2328">4200</text>
+<text x="659" y="269" fill="#1f2328">50400</text>
+<text x="769" y="269" fill="#1f2328">Kokshetau</text>
+<text x="16" y="314" font-size="16" font-weight="700" fill="#0b2545">AFTER: one clean table — real dates and numbers, normalised names, amount check</text>
+<rect x="16" y="328" width="960" height="26" fill="#e8f1f8" stroke="#d0d7de"/>
+<text x="24" y="345" font-weight="700" fill="#1f2328">order_id</text>
+<text x="114" y="345" font-weight="700" fill="#1f2328">date</text>
+<text x="219" y="345" font-weight="700" fill="#1f2328">sku</text>
+<text x="319" y="345" font-weight="700" fill="#1f2328">product</text>
+<text x="479" y="345" font-weight="700" fill="#1f2328">qty</text>
+<text x="549" y="345" font-weight="700" fill="#1f2328">unit_price</text>
+<text x="659" y="345" font-weight="700" fill="#1f2328">amount</text>
+<text x="769" y="345" font-weight="700" fill="#1f2328">warehouse</text>
+<text x="874" y="345" font-weight="700" fill="#1f2328">amount_check</text>
+<rect x="16" y="354" width="960" height="26" fill="#fdecea" stroke="#d0d7de"/>
+<text x="24" y="371" fill="#1f2328">1027</text>
+<text x="114" y="371" fill="#1f2328">01.02.2025</text>
+<text x="219" y="371" fill="#1f2328">HYD-220</text>
+<text x="319" y="371" fill="#1f2328">Hydraulic oil 20 L</text>
+<text x="479" y="371" fill="#1f2328">12</text>
+<text x="549" y="371" fill="#1f2328">24 300</text>
+<text x="659" y="371" fill="#1f2328">999 999</text>
+<text x="769" y="371" fill="#1f2328">Petropavl</text>
+<text x="874" y="371" fill="#1f2328">mismatch</text>
+<rect x="16" y="380" width="960" height="26" fill="#ffffff" stroke="#d0d7de"/>
+<text x="24" y="397" fill="#1f2328">1028</text>
+<text x="114" y="397" fill="#1f2328">03.02.2025</text>
+<text x="219" y="397" fill="#1f2328">HYD-220</text>
+<text x="319" y="397" fill="#1f2328">Hydraulic oil 20 L</text>
+<text x="479" y="397" fill="#1f2328">6</text>
+<text x="549" y="397" fill="#1f2328">24 300</text>
+<text x="659" y="397" fill="#1f2328">145 800</text>
+<text x="769" y="397" fill="#1f2328">Kokshetau</text>
+<text x="874" y="397" fill="#1f2328">ok</text>
+<rect x="16" y="406" width="960" height="26" fill="#ffffff" stroke="#d0d7de"/>
+<text x="24" y="423" fill="#1f2328">1022</text>
+<text x="114" y="423" fill="#1f2328">04.02.2025</text>
+<text x="219" y="423" fill="#1f2328">HYD-220</text>
+<text x="319" y="423" fill="#1f2328">Hydraulic oil 20 L</text>
+<text x="479" y="423" fill="#1f2328">8</text>
+<text x="549" y="423" fill="#1f2328">24 300</text>
+<text x="659" y="423" fill="#1f2328">194 400</text>
+<text x="769" y="423" fill="#1f2328">Astana</text>
+<text x="874" y="423" fill="#1f2328">ok</text>
+<rect x="16" y="432" width="960" height="26" fill="#ffffff" stroke="#d0d7de"/>
+<text x="24" y="449" fill="#1f2328">1023</text>
+<text x="114" y="449" fill="#1f2328">11.02.2025</text>
+<text x="219" y="449" fill="#1f2328">FLT-001</text>
+<text x="319" y="449" fill="#1f2328">Oil filter</text>
+<text x="479" y="449" fill="#1f2328">12</text>
+<text x="549" y="449" fill="#1f2328">4 200</text>
+<text x="659" y="449" fill="#1f2328">50 400</text>
+<text x="769" y="449" fill="#1f2328">Kokshetau</text>
+<text x="874" y="449" fill="#1f2328">ok</text>
+<rect x="16" y="458" width="960" height="26" fill="#ffffff" stroke="#d0d7de"/>
+<text x="24" y="475" fill="#1f2328">1024</text>
+<text x="114" y="475" fill="#1f2328">12.02.2025</text>
+<text x="219" y="475" fill="#1f2328">FLT-014</text>
+<text x="319" y="475" fill="#1f2328">Air filter</text>
+<text x="479" y="475" fill="#1f2328">9</text>
+<text x="549" y="475" fill="#1f2328">6 800</text>
+<text x="659" y="475" fill="#1f2328">61 200</text>
+<text x="769" y="475" fill="#1f2328">Kokshetau</text>
+<text x="874" y="475" fill="#1f2328">ok</text>
+<rect x="16" y="484" width="960" height="26" fill="#ffffff" stroke="#d0d7de"/>
+<text x="24" y="501" fill="#1f2328">1019</text>
+<text x="114" y="501" fill="#1f2328">16.02.2025</text>
+<text x="219" y="501" fill="#1f2328">BRG-305</text>
+<text x="319" y="501" fill="#1f2328">Bearing 6305</text>
+<text x="479" y="501" fill="#1f2328">2</text>
+<text x="549" y="501" fill="#1f2328">3 100</text>
+<text x="659" y="501" fill="#1f2328">6 200</text>
+<text x="769" y="501" fill="#1f2328">Astana</text>
+<text x="874" y="501" fill="#1f2328">ok</text>
+<rect x="16" y="510" width="960" height="26" fill="#fdecea" stroke="#d0d7de"/>
+<text x="24" y="527" fill="#1f2328">1025</text>
+<text x="114" y="527" fill="#1f2328">17.02.2025</text>
+<text x="219" y="527" fill="#1f2328">ELC-012</text>
+<text x="319" y="527" fill="#1f2328">Battery 12V 90Ah</text>
+<text x="479" y="527" fill="#1f2328">5</text>
+<text x="549" y="527" fill="#1f2328">48 500</text>
+<text x="659" y="527" fill="#1f2328">—</text>
+<text x="769" y="527" fill="#1f2328">Astana</text>
+<text x="874" y="527" fill="#1f2328">missing</text>
+<rect x="16" y="536" width="960" height="26" fill="#ffffff" stroke="#d0d7de"/>
+<text x="24" y="553" fill="#1f2328">1017</text>
+<text x="114" y="553" fill="#1f2328">18.02.2025</text>
+<text x="219" y="553" fill="#1f2328">FLT-014</text>
+<text x="319" y="553" fill="#1f2328">Air filter</text>
+<text x="479" y="553" fill="#1f2328">7</text>
+<text x="549" y="553" fill="#1f2328">6 800</text>
+<text x="659" y="553" fill="#1f2328">47 600</text>
+<text x="769" y="553" fill="#1f2328">Astana</text>
+<text x="874" y="553" fill="#1f2328">ok</text>
+</svg>
